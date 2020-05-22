@@ -1,0 +1,178 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+margin: 0;
+font-family: 'Roboto', sans-serif;
+}
+
+header{
+  width: 100%;
+  height: 1000px;
+  background-image: url(../image/manicure-2061276.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.head{
+  position: relative;
+  top: 380px;
+  text-align: center;
+}
+
+.h{
+  margin: 0;
+  font-weight: normal;
+    font-size: xxx-large;
+    color: white;
+}
+
+.p{
+  margin: 0;
+}
+
+/* second section*/
+
+.first{
+  height: 150px;
+  width: 100%;
+  
+}
+
+
+.info{
+  position: relative;
+  text-align: center;
+}
+
+.integer{
+  position: relative;
+  top: 15px;
+}
+
+.hh{
+  margin: 0;
+    font-weight: normal;
+    font-size: xx-large;
+    color: black;
+}
+
+.ret{
+margin: 0;
+font-size: 30px;
+    letter-spacing: 3px;
+}
+
+/* three section*/
+
+.second{
+  height: 500px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(226, 226, 226, 0.32);
+
+}
+
+.it{
+  position: relative;
+  top: 50px;
+    margin-left: 0px;
+   
+}
+
+.ned{
+
+}
+
+.qqq{
+  margin: 0;
+  text-align: center;
+}
+
+.das{
+  font-size: 18px;
+  text-align: center;
+}
+
+img{
+  text-align: left;
+}
+
+.pot{
+
+}
+
+/* four*/
+
+.yit{
+  height: 300px;
+  width: 100%;
+  
+}
+
+.dof{
+  text-align: center;
+  padding-top: 40px;
+}
+
+.wee{
+  margin: 0;
+  font-weight: normal;
+    line-height: 2;
+    font-size: xxx-large;
+}
+
+.qws{
+
+}
+
+.yoy{
+  margin: 0;
+    text-align: center;
+    font-size: 22px;
+}
+
+/*6*/
+.lfk{
+  height: 600px;
+  width: 100%;
+  background:black;
+  background-image: url(../image/nail.jpg);
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+.cffv{
+ 
+}
+/*7*/
+
+.mgg{
+  height: 1045px;
+  width: 100%;
+  background:yellow;
+ 
+ 
+}
+
+/*8*/
+
+.zax{
+   
+}
+
+.vsv{
+  height: 200px;
+  width: 100%;
+  background:red;
+  
+}
